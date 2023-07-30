@@ -1,0 +1,1 @@
+SECRET_KEY="fisa_test"  # CSRF 보안을 위한 비밀번호
